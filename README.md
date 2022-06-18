@@ -2,7 +2,7 @@
 Ade Putra Maghribi - 2057051022
 Rayhan Akbar Kurniawan - 2017051071
 Ahmad Muzakki - 2017051037
-Sistem Informasi Gudang Laptop Unila
+Sistem Informasi Gudang Laptop Unila digunakan oleh admin untuk mengelola stok laptop pada gudang dengan fitur CRUD
 Pembagian Tugas :
 Ade Putra Maghribi :
 -Index.php
